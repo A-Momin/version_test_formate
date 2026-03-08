@@ -11,7 +11,7 @@ setup(
     # url="https://github.com/algorithms_and_data_structures",
     # download_url='https://github.com/...../..../',
     classifiers=[
-        'Programming Language :: Python :: 3.13.3',
+        'Programming Language :: Python :: 3.13.2',
     ],
     install_requires=[]
 )
